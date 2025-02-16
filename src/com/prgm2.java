@@ -32,7 +32,7 @@ public class prgm2 {
 			System.out.println("saturday");
 		}
 		else if(day==7) {
-			System.out.println("sunday");
+			System.out.println("holiday");
 		}
 		
 		else {
